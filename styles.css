@@ -1,0 +1,34 @@
+ img {
+     width: 200px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ h1 {
+     color: black;
+     text-align: center;
+     font-family: 'Freckle Face', cursive;
+     border: 4px groove #764ba2;
+     padding: 9px;
+     margin: 20px;
+ }
+
+ div {
+     text-align: center;
+ }
+
+ body {
+     background-color: #c2e9fb;
+ }
+
+ h3 {
+     font-family: 'Playfair Display', serif;
+
+     padding: 9px;
+ }
+
+
+ img {
+     display: none;
+ }
